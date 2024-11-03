@@ -13,6 +13,14 @@ const gifList: GIF[] = [{
   "alt_text": "Dwight from The Office says thank you",
   "tags": ["thankful", "appreciation"],
 }, {
+  "URL": "https://media.giphy.com/media/jIXcTEmU5RCpO/giphy.gif",
+  "alt_text": "Dwight from The Office says thank you",
+  "tags": ["thankful", "appreciation"],
+}, {
+  "URL": "https://media.giphy.com/media/MRlLXxLmroMYbksYHN/giphy.gif",
+  "alt_text": "Dwight from The Office says thank you",
+  "tags": ["thankful", "appreciation"],
+}, {
   "URL":
     "https://media3.giphy.com/media/DhstvI3zZ598Nb1rFf/giphy-downsized.gif",
   "alt_text": "Dancing at a disco party in The Office",
